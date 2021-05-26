@@ -1,4 +1,7 @@
 # action.yml
+on: [push]
+name: CI
+
 name: 'Hello World'
 description: 'Greet someone and record the time'
 inputs:
